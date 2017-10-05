@@ -1,3 +1,5 @@
+NOTE: This project is currently under construction and does not work
+
 # MySQLToKafkaUDF
 A My sql udf that sends data directly to kafka
 
